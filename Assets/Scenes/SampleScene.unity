@@ -306,6 +306,7 @@ GameObject:
   - component: {fileID: 1136255599}
   - component: {fileID: 1136255600}
   - component: {fileID: 1136255598}
+  - component: {fileID: 1136255601}
   m_Layer: 5
   m_Name: Image
   m_TagString: Untagged
@@ -377,6 +378,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c61f431d8636f043b07d29c510c4c4b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1136255601
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1136255596}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74640903992acae4cb0f01243f7ee9c7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1550566373
 GameObject:
   m_ObjectHideFlags: 0
@@ -444,8 +457,8 @@ Canvas:
   m_GameObject: {fileID: 1550566373}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 0
-  m_Camera: {fileID: 0}
+  m_RenderMode: 1
+  m_Camera: {fileID: 963194227}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
   m_ReceivesEvents: 1
