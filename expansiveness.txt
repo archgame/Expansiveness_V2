@@ -11,3 +11,9 @@ figure ground (black and white shapes)
 
 August 23rd
 https://docs.google.com/document/d/1aCBsT4gjAEsJmGm4M_9jtEQUSJ0D4HgD8TY0i1iXTHc/edit?ts=5ee125dd   
+
+https://answers.unity.com/questions/1101792/how-to-post-process-a-webcamtexture-in-realtime.html
+https://stackoverflow.com/questions/45017562/how-can-i-delay-screen-output-in-unity
+https://www.youtube.com/watch?v=c6NXkZWXHnc
+https://answers.unity.com/questions/336671/additively-overlay-one-camera-on-another.html
+https://medium.com/@amagitakayosi/vj-ing-with-unity-e9736793e979
